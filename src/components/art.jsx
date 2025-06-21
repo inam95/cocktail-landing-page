@@ -37,6 +37,7 @@ export function Art() {
         ease: "power1.inOut",
       });
   }, []);
+
   return (
     <div id="art">
       <div className="container mx-auto h-full pt-20">
